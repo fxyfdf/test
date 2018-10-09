@@ -1,0 +1,9 @@
+git clone https://github.com/fxyfdf/test.git
+克隆远程到本地
+
+分支与标签：
+git branch   # 显示所有本地分支
+git checout <branch/tag>   # 切换到指定分支或标签
+git branch  <new-branch>  # 创建新分支
+
+2-1
